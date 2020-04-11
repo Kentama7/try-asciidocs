@@ -16,3 +16,27 @@ iii
 
 ううう +
 uuu
+
+.index.adoc
+====
+INDEX
+[listing]
+....
+  = 11111
+  [[README]]
+  == 22222
+  include::README.adoc[]
+....
+====
+
+
+.README.adoc
+====
+README
+
+[listing]
+....
+  === AAAA
+  BBBB
+....
+====
