@@ -39,3 +39,10 @@ include::include.adoc[]
 ---
 
 image::https://uc1575dbdb4173b1ad360e0e3a6b.previews.dropboxusercontent.com/p/thumb/AAwW5KF9Sf32f9k3aUQFY2ittguooUQQXKDHLZFsRidLpt2P22np1e_FoLEMNKoEG9BGEdiuGZGH1dbcvRXW9L2PdqZE9Oz_v4yWh2QolD5sz0Mq0aRuxxmI6kpv5rwA_q7xLXYCJechnOneRwcq-hxoAZHGCi5VbKakozZrZuPNkcXqSUKVV9Z5fGv2qltYSWoyCd5mtazJ1jvOCFxnMyeRxDq3sdIomx2xBLH7T7g8kPStXdpVrQZQEOFTniRGAe3qnDozj0ickk2GlqgKPai0qqoDP5ZoOKPs8qfXyOrUrzBPHmsOHNrEjQPZOCzwjl1-MNfJ1CZxiLTqX-HKjLnBWULHFovypF-vz3kENuUpkQ/p.jpeg?fv_content=true&size_mode=5[]
+
+---
+
+[source,yml]
+----
+include::.github/workflows/asciidoc.yml[]
+----
