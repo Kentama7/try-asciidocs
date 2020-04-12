@@ -23,11 +23,6 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Install fonts
-      run: |
-        mkdir ~/.fonts
-        cp theme/fonts/*.otf ~/.fonts
-        fc-cache -f -v 
     - name: Setup Node
       uses: actions/setup-node@v1
     - name: Cache node modules
